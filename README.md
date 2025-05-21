@@ -1,1 +1,2 @@
-"# python_example" 
+- Python Function example
+- run with `python main.py` in console
